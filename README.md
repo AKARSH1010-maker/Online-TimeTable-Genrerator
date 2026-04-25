@@ -1,4 +1,5 @@
 # Online-TimeTable-Genrerator
+
 ## Live Demo: https://online-time-table-genrerator.vercel.app/
 
 A simple web-based application that allows users to generate class timetables instantly by entering subjects, teachers, classes, working days, and number of periods.
@@ -31,6 +32,6 @@ A simple web-based application that allows users to generate class timetables in
 7. Click **Download PDF** to save it
 
 
-## 👨‍💻 Author
+##  Author
 
 Akarsh Singh Sisoudia
