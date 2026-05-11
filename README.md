@@ -13,7 +13,7 @@ A simple web-based application that allows users to generate class timetables in
 - Fully responsive UI
 - Easy to use (no login required)
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - HTML
 - CSS
