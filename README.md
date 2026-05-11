@@ -30,8 +30,3 @@ A simple web-based application that allows users to generate class timetables in
 5. Enter periods per day
 6. Click **Generate Timetable**
 7. Click **Download PDF** to save it
-
-
-##  Author
-
-Akarsh Singh Sisoudia
